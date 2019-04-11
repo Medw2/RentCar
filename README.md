@@ -1,1 +1,1 @@
-OspreyMap
+ospreyMap
